@@ -1,0 +1,9 @@
+#Workflow
+git init 
+git config user.name "user.name"
+git config user.email "email.name"
+git add .
+git commit -m "write content"
+git remote add origin URL
+git push origin master/main
+git pull origin master/main
